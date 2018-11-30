@@ -1,0 +1,18 @@
+{
+  "name": "hackbenchers-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Dehal",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^3.6.0",
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.4",
+    "fast-csv": "^2.4.1",
+    "nodemon": "^1.18.7"
+  }
+}

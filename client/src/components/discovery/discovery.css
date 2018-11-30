@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+.discovery {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.1em;
+    padding: 5em;
+    color: rgb(29, 28, 28);
+}
+
+.methodListHead {
+    text-align: left;
+    margin-left: 2.5em;
+}
+
+.methodList {
+    margin: 2.5em;
+}
+
+.method {
+    text-align: left;
+    font-size: 0.85em;
+}

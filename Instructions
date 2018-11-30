@@ -1,0 +1,8 @@
+
+Step 1:
+	- Open the terminal/command line and then go to the directory.
+	- Type the command " nodemon server.js" (this command will start the backend server).
+	- Now leave the terminal/command line window unclosed and open a new terminal/command-line window.
+Step 2:
+	- In the new terminal/command line window type the command "cd client" to enter into the client folder.
+	- To start the app run the command "npm start".

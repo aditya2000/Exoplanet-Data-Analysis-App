@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+.distance {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.1em;
+    padding: 5em;
+    color: rgb(29, 28, 28);
+}
+
+.planets-dist {
+    display: grid;
+    grid-auto-columns: 10em;
+    grid-gap: 15px;
+    grid-template-columns: auto auto auto auto;
+}
+
+.planets-dist div {
+    box-shadow: .5px 1px 1px .5px rgb(114, 112, 112);
+    padding: 1em;
+    border-radius: 2px;
+    font-weight: bold;
+}

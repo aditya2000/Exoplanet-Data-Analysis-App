@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush');
+
+.navbar {
+    font-family: 'Alex Brush', cursive;
+    font-size: 1.75em;
+    width: 100%;
+    opacity: 0.95;
+    background-color: #1f1d1d;
+    color: rgb(228, 227, 227);;
+    border: 1px solid #1f1d1d;
+    position: fixed;
+}
